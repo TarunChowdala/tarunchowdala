@@ -11,7 +11,7 @@
 - 🧠 Currently exploring Python & FastAPI to integrate AI into full-stack projects  
 - 🌱 Learning every day and improving my problem-solving skills  
 - ⚡ Always up for building cool and meaningful tech  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tarun-chowdala-77214125b) • [Portfolio](https://your-portfolio.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tarun-chowdala-77214125b)
 
 ---
 
