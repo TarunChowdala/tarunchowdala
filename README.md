@@ -23,6 +23,8 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-00C9A7?style=flat&logo=cursor&logoColor=white)
+
 
 ---
 
