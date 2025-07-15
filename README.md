@@ -6,10 +6,8 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/<username>/repo/blob/main/path/to/desk-coder.gif" width="400" alt="Coding at desk" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Developer coding" />
 </p>
-
-
 
 
 ### 🚀 About Me
