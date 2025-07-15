@@ -6,8 +6,9 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img src="https://github.com/<username>/repo/blob/main/path/to/desk-coder.gif" width="400" alt="Coding at desk" />
 </p>
+
 
 
 
