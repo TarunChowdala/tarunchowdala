@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Hi+I'm+Tarun+Chowdala;Frontend+Dev+exploring+Full-stack+and+AI" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </p>
 
 
