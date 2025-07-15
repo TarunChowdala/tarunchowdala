@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Developer coding" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/male-coder-blue.gif" width="400" alt="Male developer coding at desk" />
 </p>
 
 
