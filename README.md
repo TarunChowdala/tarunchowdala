@@ -33,9 +33,12 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarunchowdala&show_icons=true&theme=transparent&border_radius=12&hide_border=false&include_all_commits=true" width="42%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=tarunchowdala&theme=transparent&border_radius=12&hide_border=false" width="42%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunchowdala&show_icons=true&theme=transparent&border_radius=12&hide_border=false&include_all_commits=true" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunchowdala&layout=compact&theme=transparent&border_radius=12&hide_border=false" width="45%" />
 </p>
 
