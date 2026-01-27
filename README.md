@@ -35,7 +35,6 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-fcdc00?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ff8000?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ### 🎨 Frontend  
