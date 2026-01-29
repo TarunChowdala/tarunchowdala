@@ -1,151 +1,157 @@
-<h1 align="center">🚀 Welcome to My Profile</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tarun+Chowdala+👋;Full+Stack+Developer;React+%2B+FastAPI;Building+AI-powered+Web+Apps" alt="Typing SVG" />
+</div>
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=fff&animation=twinkling" />
+</div>
 
-<table>
-<tr>
-<td width="60%">
+---
 
-🔹 **Full-Stack Developer (React + Node.js) | Python & FastAPI | AI Integrations**  
-🔹 Passionate about building **scalable full-stack apps & intelligent AI systems**  
-🔹 Currently learning **FastAPI, Generative AI, RAG, LangChain, OpenAI APIs**  
-🔹 Love creating **clean UIs, chat apps, real-time dashboards, and automation tools**  
-🔹 Experience working on **AI Calls, AI Chat, AI Email/SMS** at Swara Tech (Contact Swing)  
-🔹 Exploring **LLMs, embeddings, vector databases, speech AI (LiveKit)**  
+## 🚀 About Me
 
-📫 **Email:** tarunchowdala300@gmail.com  
-🌐 **Portfolio:** https://my-portfolio-tarun.vercel.app/  
-📍 **Hyderabad, India**
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-</td>
+💻 **Full Stack Developer** (React + FastAPI)  
+🎯 Focused on **scalable systems, clean UI, and performance**  
+🌍 **Srikakulam, Andhra Pradesh, India**  
+📧 **tarunchowdala300@gmail.com** | 📱 **+91 79896 85788**
 
-<td width="40%">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
-</td>
+- 🔭 Working as **Full Stack Developer at Swara Tech**
+- ⚛️ Frontend with **React, Tailwind CSS**
+- 🧠 Backend with **FastAPI, Node.js, REST APIs**
+- 🗄️ Databases: **PostgreSQL, MongoDB, SQLite**
+- 🌱 Learning **Generative AI, RAG, LangChain**
+- ⚡ I enjoy turning complex requirements into clean, maintainable systems
 
-</tr>
-</table>
+---
+
+## 🧠 Currently Learning (GenAI Track 🚀)
+
+<div align="center">
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Vector DBs](https://img.shields.io/badge/RAG_&_Vector_DBs-0A66C2?style=for-the-badge)
+
+</div>
+
+📌 Goal: **Build production-ready AI-powered full-stack applications**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+</div>
+
+### 🧩 Backend & Databases
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+</div>
+
+### ⚙️ State & Data
+<div align="center">
+
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge)
+
+</div>
+
+### ☁️ Cloud & Tools
+<div align="center">
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 🏢 Full Stack Developer  
+**Swara Tech** | Hyderabad (Onsite)  
+*Sep 2024 – Present*
+
+- Built reusable and responsive UI components using **React**
+- Managed global state using **Context API & Zustand**
+- Integrated **React Query** for caching and real-time data sync
+- Developed REST APIs using **FastAPI (Python)**
+- Designed and managed **PostgreSQL** databases
+- Implemented **WebSockets** for real-time messaging
+- Built CMS-based solutions using **WordPress & Webflow**
+- Optimized frontend and backend performance
+- Collaborated with cross-functional teams for feature delivery
+
+---
+
+## 🧩 Projects
+
+### 🤖 SmartChat AI Platform  
+**React · FastAPI · LangChain · Gemini · Firebase**  
+🔗 https://smartchataiapp.vercel.app/
+
+- Built a full-stack AI platform for chat, document intelligence, and resume tools
+- Implemented **AI chat assistant** using Gemini + LangChain
+- Developed **RAG-based document chat** for file Q&A
+- Built AI-powered **resume analyzer & generator**
+- Designed scalable backend APIs using **FastAPI**
+
+---
+
+### 🛒 E-Commerce Web Application  
+**React · Node.js · SQLite · Razorpay**  
+🔗 https://ecommerce-frontend-kohl-eight.vercel.app/
+
+- Developed full-stack e-commerce platform
+- Implemented **JWT authentication**
+- Built cart, checkout, and order flow
+- Integrated **Razorpay** for secure payments
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunChowdala&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunChowdala&layout=compact)
 
 
 ---
 
-## 🛠️ Technical Arsenal  
+## 🌐 Connect With Me
 
-### 🧩 Programming Languages  
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-fcdc00?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<div align="center">
 
-### 🎨 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/tarun-chowdala-77214125b)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge)](https://github.com/TarunChowdala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://my-portfolio-tarun.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:tarunchowdala300@gmail.com)
 
-### ⚙ Backend  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-05998b?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-### 🗄 Databases  
-<p>
-  <img src="https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### 🤖 AI / ML / LLM Tools  
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embeddings-000?style=for-the-badge&logo=vectorworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6600?style=for-the-badge&logo=buffer&logoColor=white" />
-</p>
-
-### 🧰 Tools  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-f76935?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-00C9A7?style=for-the-badge&logo=cursor&logoColor=white" />
-</p>
+</div>
 
 ---
 
-## 💼 Professional Experience  
-
-### **Fullstack Developer — Swara Tech (ContactSwing)**  
-📅 *2024 — Present*  
-📍 **Hyderabad, India**
-
-🔹 Built UI and dashboard for **AI call agents, AI chat, AI email & SMS services**  
-🔹 Integrated LiveKit-based **AI voice interaction frontend**  
-🔹 Developed chat interfaces with message history, socket integration  
-🔹 Worked on **React + Node.js + FastAPI hybrid AI system**  
-🔹 Built reusable components and optimized UI performance  
-
----
-
-## 🌟 Featured Projects  
-
-### 🔹 **AI Speech Interaction (LiveKit + FastAPI)**  
-**Stack:** React, Node.js, FastAPI, WebSockets  
-- Real-time AI voice interaction  
-- Streaming responses  
-- Custom UI widgets  
-
----
-
-### 🔹 **AI Chatbot (RAG + OpenAI + FastAPI + React)**  
-- Chat with PDFs  
-- Embeddings + vector DB  
-- Retrieval-Augmented Generation  
-- Clean and modern frontend  
-
----
-
-### 🔹 **Contact Swing Dashboard (Production Project)**  
-- Voice AI, AI SMS, AI Email  
-- Full admin dashboard  
-- Integrated calls, logs, messaging UI  
-- Long-term production codebase  
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=tarunchowdala&show_icons=true&theme=dark&border_radius=10" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunchowdala&theme=dark&border_radius=10" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunchowdala&layout=compact&theme=dark&border_radius=10" />
-</p>
-
-
-## 🤝 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tarun-chowdala-77214125b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://my-portfolio-tarun.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-1e90ff?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-  <a href="mailto:tarunchowdala300@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting! Keep building. Keep improving. ⭐</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  ⭐️ **From Tarun Chowdala**
+</div>
