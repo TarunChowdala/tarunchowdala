@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tarun+Chowdala+👋;Full+Stack+Developer;React+%2B+FastAPI;Building+AI-powered+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tarun+Chowdala+👋;Full+Stack+Developer;React+%2B+NodeJS+%2B+FastAPI;Building+AI-powered+Web+Apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-💻 **Full Stack Developer** (React + FastAPI)  
+💻 **Full Stack Developer** (React + Nodejs + FastAPI)  
 🎯 Focused on **scalable systems, clean UI, and performance**  
 🌍 **Srikakulam, Andhra Pradesh, India**  
 📧 **tarunchowdala300@gmail.com** | 📱 **+91 79896 85788**
