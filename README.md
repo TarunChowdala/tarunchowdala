@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tarun+Chowdala+👋;Full+Stack+Developer;React+%2B+NodeJS+%2B+FastAPI;Building+AI-powered+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tarun+Chowdala+👋;Full+Stack+Developer;Building+AI-Powered+Applications;React+•+FastAPI+•+Node.js+•+AI" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,34 +12,44 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-💻 **Full Stack Developer** (React + Nodejs + FastAPI)  
-🎯 Focused on **scalable systems, clean UI, and performance**  
-🌍 **Srikakulam, Andhra Pradesh, India**  
-📧 **tarunchowdala300@gmail.com** | 📱 **+91 79896 85788**
+💻 **Full Stack Developer | Building AI-Powered Applications**
 
-- 🔭 Working as **Full Stack Developer at Swara Tech**
-- ⚛️ Frontend with **React, Tailwind CSS**
-- 🧠 Backend with **FastAPI, Node.js, REST APIs**
-- 🗄️ Databases: **PostgreSQL, MongoDB, SQLite**
-- 🌱 Learning **Generative AI, RAG, LangChain**
-- ⚡ I enjoy turning complex requirements into clean, maintainable systems
+🌍 **Hyderabad, India**
+
+📧 **tarunchowdala300@gmail.com**
 
 ---
 
-## 🧠 Currently Learning (GenAI Track 🚀)
+I'm a Full Stack Developer passionate about building scalable backend systems, AI-powered applications, and modern web experiences.
+
+Currently contributing to an enterprise Conversational AI platform where I build production features across Voice, Chat, SMS, WhatsApp, and Email assistants using React, FastAPI, Node.js, PostgreSQL, Redis, and Google Cloud.
+
+I enjoy solving complex engineering problems, designing clean architectures, and building intelligent software that delivers real business value.
+
+### What I Build
+
+- 🤖 AI-powered applications using LLMs and RAG
+- ⚛️ Modern React & TypeScript applications
+- 🚀 FastAPI & Node.js backend services
+- 🔄 Real-time systems using WebSockets
+- ☁️ Scalable asynchronous systems with Redis & Google Cloud Tasks
+- 🔗 Enterprise integrations including CRM, Email, SMS, Calendar & Webhooks
+---
+
+## 🤖 Building with AI
 
 <div align="center">
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Vector DBs](https://img.shields.io/badge/RAG_&_Vector_DBs-0A66C2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-00C853?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B35?style=for-the-badge)
 
 </div>
 
-📌 Goal: **Build production-ready AI-powered full-stack applications**
-
+🚀 Building AI-powered applications using Large Language Models, Retrieval-Augmented Generation (RAG), Vector Databases, and AI Agents.
 ---
 
 ## 🛠️ Tech Stack
@@ -88,25 +98,26 @@
 
 ## 💼 Experience
 
-### 🏢 Full Stack Developer  
-**Swara Tech** | Hyderabad (Onsite)  
+### 🏢 Full Stack Developer
+
+**Swara Tech** | Hyderabad (Onsite)
+
 *Sep 2024 – Present*
 
-- Built reusable and responsive UI components using **React**
-- Managed global state using **Context API & Zustand**
-- Integrated **React Query** for caching and real-time data sync
-- Developed REST APIs using **FastAPI (Python)**
-- Designed and managed **PostgreSQL** databases
-- Implemented **WebSockets** for real-time messaging
-- Built CMS-based solutions using **WordPress & Webflow**
-- Optimized frontend and backend performance
-- Collaborated with cross-functional teams for feature delivery
-
+- Contributing to an enterprise Conversational AI platform supporting AI-powered Voice, Chat, SMS, WhatsApp, and Email assistants.
+- Built scalable frontend applications using React, TypeScript, Zustand, React Query, and Context API.
+- Developed backend services using FastAPI (Python) and Node.js for conversation management, workflow automation, and business operations.
+- Designed and optimized PostgreSQL databases and REST APIs for production workloads.
+- Implemented real-time communication using WebSockets.
+- Built asynchronous workflows using Redis, Google Cloud Tasks, and scheduled background jobs.
+- Contributed to AI-powered business workflows integrating CRM, Email, SMS, Calendar, and custom webhook-based automations.
+- Debugged and resolved production issues across multiple backend services, Docker containers, and GCP-hosted applications.
+- Collaborated with cross-functional teams to deliver scalable production-ready features.
 ---
 
 ## 🧩 Projects
 
-### 🤖 SmartChat AI Platform  
+### 🤖 SmartChat AI Workspace 
 **React · FastAPI · LangChain · Gemini · Firebase**  
 🔗 https://smartchataiapp.vercel.app/
 
