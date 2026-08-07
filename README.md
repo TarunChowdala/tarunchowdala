@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tarun+Chowdala+👋;Full+Stack+Developer;Building+AI-Powered+Applications;React+•+FastAPI+•+Node.js+•+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tarun+Chowdala+👋;Full+Stack+AI+Developer+%7C+React.js+%7C+FastAPI+%7C+Node.js" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=fff&animation=true" />
 </div>
 
 ---
@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-💻 **Full Stack Developer | Building AI-Powered Applications**
+💻 **Full Stack AI Developer | React.js | FastAPI | Node.js**
 
 🌍 **Hyderabad, India**
 
@@ -20,11 +20,7 @@
 
 ---
 
-I'm a Full Stack Developer passionate about building scalable backend systems, AI-powered applications, and modern web experiences.
-
-Currently contributing to an enterprise Conversational AI platform where I build production features across Voice, Chat, SMS, WhatsApp, and Email assistants using React, FastAPI, Node.js, PostgreSQL, Redis, and Google Cloud.
-
-I enjoy solving complex engineering problems, designing clean architectures, and building intelligent software that delivers real business value.
+I'm a Full Stack Developer with 2+ years of experience building, maintaining, and scaling production-grade web applications using React.js, FastAPI, Node.js, PostgreSQL, Redis, and GCP. I develop end-to-end features, design REST APIs, and maintain distributed systems involving queues, background jobs, and real-time communication. I'm also building deeper GenAI expertise (LangChain, RAG pipelines, vector DBs) and actively working on AI-powered applications.
 
 ### What I Build
 
@@ -34,6 +30,7 @@ I enjoy solving complex engineering problems, designing clean architectures, and
 - 🔄 Real-time systems using WebSockets
 - ☁️ Scalable asynchronous systems with Redis & Google Cloud Tasks
 - 🔗 Enterprise integrations including CRM, Email, SMS, Calendar & Webhooks
+
 ---
 
 ## 🤖 Building with AI
@@ -44,7 +41,7 @@ I enjoy solving complex engineering problems, designing clean architectures, and
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-00C853?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00C853?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B35?style=for-the-badge)
 
 </div>
@@ -70,7 +67,7 @@ I enjoy solving complex engineering problems, designing clean architectures, and
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
 </div>
 
@@ -87,8 +84,8 @@ I enjoy solving complex engineering problems, designing clean architectures, and
 <div align="center">
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Hostinger](https://img.shields.io/badge/Hostinger-000000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
@@ -104,60 +101,66 @@ I enjoy solving complex engineering problems, designing clean architectures, and
 
 *Sep 2024 – Present*
 
-- Contributing to an enterprise Conversational AI platform supporting AI-powered Voice, Chat, SMS, WhatsApp, and Email assistants.
-- Built scalable frontend applications using React, TypeScript, Zustand, React Query, and Context API.
-- Developed backend services using FastAPI (Python) and Node.js for conversation management, workflow automation, and business operations.
-- Designed and optimized PostgreSQL databases and REST APIs for production workloads.
-- Implemented real-time communication using WebSockets.
-- Built asynchronous workflows using Redis, Google Cloud Tasks, and scheduled background jobs.
-- Contributed to AI-powered business workflows integrating CRM, Email, SMS, Calendar, and custom webhook-based automations.
-- Debugged and resolved production issues across multiple backend services, Docker containers, and GCP-hosted applications.
-- Collaborated with cross-functional teams to deliver scalable production-ready features.
+- Built 15+ production-grade screens and 50+ reusable React components, improving code reusability and accelerating feature delivery across the platform.
+- Took ownership of frontend architecture by organizing folder structure, standardizing component patterns, and improving maintainability across multiple application modules.
+- Developed modern React applications using TypeScript, Context API, Zustand, and React Query, improving state management, caching, background synchronization, and overall application performance.
+- Developed and maintained REST APIs using FastAPI (Python) and Node.js, supporting production features across conversational AI, campaigns, user management, and business workflows.
+- Designed and optimized PostgreSQL database schemas, queries, and data models to support scalable and reliable platform operations.
+- Built and enhanced real-time features using WebSockets, enabling low-latency communication for chat and live interaction workflows.
+- Worked on asynchronous processing using Redis, Google Cloud Tasks, cron jobs, and background workers to power campaign execution, scheduled jobs, notifications, and workflow automation.
+- Contributed to production features for an enterprise Conversational AI platform supporting AI-powered Voice, Chat, SMS, WhatsApp, and Email assistants, enhancing customer communication and automation workflows.
+- Maintained and enhanced integrations with external business services, including CRM, email, messaging, calendar, and webhook-based workflows used throughout the platform.
+- Currently serve as the primary Full Stack Developer responsible for maintaining and enhancing multiple production applications, including the React frontend, 4 backend services, and Google Cloud Platform (GCP) infrastructure.
+- Debugged and resolved complex production issues by analyzing application logs, Docker container logs, API traces, and cloud deployments, improving platform stability and reducing service disruptions.
+- Collaborated with cross-functional teams in an Agile environment to deliver scalable, production-ready features while ensuring code quality and maintainability.
+
+**Instedia** | Hyderabad
+
+*May 2024 – Jul 2024* — Frontend Developer Intern
+
+- Developed and delivered reusable, responsive UI components using React.js, HTML5, CSS3, and Bootstrap.
+- Integrated frontend application with backend REST APIs, enabling dynamic data rendering and real-time UI updates.
+- Identified and resolved UI bugs and cross-browser compatibility issues, improving application stability.
+- Applied Git and GitHub for version control, branching, and collaborative code reviews within an Agile team environment.
+
 ---
 
 ## 🧩 Projects
 
-### 🤖 SmartChat AI Workspace 
-**React · FastAPI · LangChain · Gemini · Firebase**  
-🔗 https://smartchataiapp.vercel.app/
+### 🤖 AI Web Search Agent (Scout)
+**Tech:** Python · Streamlit · LangChain · LangGraph · Groq · Serper API · Wikipedia API · YouTube Search
 
-- Built a full-stack AI platform for chat, document intelligence, and resume tools
-- Implemented **AI chat assistant** using Gemini + LangChain
-- Developed **RAG-based document chat** for file Q&A
-- Built AI-powered **resume analyzer & generator**
-- Designed scalable backend APIs using **FastAPI**
+- Developed an AI-powered web search agent using LangChain `create_agent` with LangGraph MemorySaver for multi-turn conversational memory.
+- Integrated multiple external tools (Google Web Search, Google News, Google Images, Wikipedia, YouTube Search) enabling dynamic tool selection for user queries.
+- Implemented autonomous tool-calling workflows where the LLM selects, executes, and synthesizes information into coherent responses.
+- Added support for multiple Groq-hosted LLMs (GPT-OSS 120B, Qwen 3.6 27B, Llama 3.3 70B) to compare reasoning quality and performance.
+- Built a Streamlit chat interface with model selection, conversation history, image gallery rendering, and clickable YouTube previews.
+
+### 🤖 SmartChat AI Workspace
+**Tech:** React · FastAPI · LangChain · FAISS · HuggingFace Embeddings
+
+- Built a full-stack AI platform for chat, document intelligence, and resume tools.
+- Implemented RAG-based document chat using LangChain + FAISS for semantic search.
+- Built specialized prompt pipelines and FastAPI backend APIs for AI inference and document processing.
+
+### 🛒 Madivra E-Commerce Platform
+**Tech:** React · Node.js · Express.js · MongoDB · Docker · Razorpay · Shiprocket · SMTP · Fast2SMS
+
+- Developed an admin dashboard and complete checkout/payment flow with Razorpay webhooks and payment verification.
+- Implemented OTP-based authentication (Email & SMS), Shiprocket integration for automated shipments and AWB generation, and webhook-based delivery status synchronization.
+- Containerized the application using Docker and deployed on Hostinger VPS with production-ready configuration.
 
 ---
 
-### 🛒 E-Commerce Web Application  
-**React · Node.js · SQLite · Razorpay**  
-🔗 https://ecommerce-frontend-kohl-eight.vercel.app/
-
-- Developed full-stack e-commerce platform
-- Implemented **JWT authentication**
-- Built cart, checkout, and order flow
-- Integrated **Razorpay** for secure payments
+## 📚 Certifications & Education
+- Full Stack Development — NxtWave Distributive Technologies
+- Python Programming — HackerRank
+- B.Sc. Computer Science — HPN Degree College, Srikakulam (2023)
 
 ---
 
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarunchowdala&theme=github" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunchowdala&theme=github" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarunchowdala&theme=github" />
-    </td>
-  </tr>
-</table>
-
+## 🔭 Currently
+Actively building deeper GenAI expertise: LangChain workflows, RAG pipelines, and vector databases. Open to collaboration on AI/ML and full-stack projects.
 
 ---
 
